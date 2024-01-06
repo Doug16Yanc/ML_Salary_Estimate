@@ -45,6 +45,6 @@ Eficiência de algoritmos
 
 [Douglas Holanda](https://github.com/Doug16Yanc)
 
-# Licença
+# Licença 💡
 
 [MIT]()
